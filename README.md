@@ -3,4 +3,4 @@ This project aims to analyze how my location affect my spending habbits. By comb
 
 ## Collection of data
 **Location data ->** Google Timeline location history\
-**Spending data ->** Manually collect daily expenses. (Date, Amount, Category, Location, Payment Method)
+**Spending data ->** Collect daily expenses through banking application (Garanti BBVA, credit card statement).
